@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate developer focused on building i
 ## About Me
 
 - 🌍 **Name**: Marino Lučić-Raguž  
-- 💼 **Current Role**: Web developer at [Venio Indicium](https://venio.hr/)  
+- 💼 **Current Role**: Software developer at [Abysalto]([https://abysalto.eu/])  
 - 🎓 **Education**:  
   - **Bachelor's Degree**: Completed in Computer Science. [2021.-2024.]
   - **Master's Studies**: Currently studying Computer Science at the **University of Split**. [2024.-2026.]
